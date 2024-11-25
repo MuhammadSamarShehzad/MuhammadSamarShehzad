@@ -50,7 +50,7 @@ I am focused on continuously improving my skills and leveraging data to make imp
 ## 🚀 Some of My Projects
 
 - **[Palestine & Israel Conflict Data Insights](https://github.com/MuhammadSamar/PalestineIsrael-InjuriesAndDeaths)**: A data analysis project visualizing injuries and deaths during the Palestine-Israel conflict.
-- 
+  
 ---
 
 
