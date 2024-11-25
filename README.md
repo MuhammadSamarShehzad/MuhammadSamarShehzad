@@ -1,7 +1,7 @@
 # 👨‍💻 Muhammad Samar Shehzad  
 **Data Science & Machine Learning Student**  
 
-Welcome to my GitHub profile! I am an aspiring **Data Scientist** and **Machine Learning Enthusiast**, passionate about solving real-world problems using data. I am always learning, growing, and building data-driven solutions.
+Welcome to my GitHub profile! I am an aspiring **Data Scientist** and **Machine Learning Student**, passionate about solving real-world problems using data. I am always learning, growing, and building data-driven solutions.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am an aspiring **Data Scientist** and **Machine 
 - 🔍 **Skills**: Python, Data Analysis, Machine Learning, Data Visualization, AI  
 - 📚 **Learning**: Pandas, Scikit-learn, TensorFlow, Deep Learning  
 - 💻 **Tools**: Jupyter, VS Code, Git, Matplotlib, Seaborn  
-- 🌱 **Currently exploring**: Predictive modeling, Regression, Classification, Clustering  
+- 🌱 **Currently exploring**: Predictive modeling, Regression, Classification  
 
 I am focused on continuously improving my skills and leveraging data to make impactful decisions. Through personal projects and online learning, I aim to bridge the gap between data and actionable insights.
 
@@ -36,7 +36,7 @@ I am focused on continuously improving my skills and leveraging data to make imp
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammadsamarshehzad/)
-- 📧 Email: **muhammad.samar@example.com**  
+- 📧 Email: **samarshehzad598@gmail.com**  
 - 🌐 Personal Website: **[Coming Soon]**
 
 ---
@@ -49,23 +49,16 @@ I am focused on continuously improving my skills and leveraging data to make imp
 
 ## 🚀 Some of My Projects
 
-- **[Project 1 Name](Link)**: Brief description of the project  
-- **[Project 2 Name](Link)**: Brief description of the project  
-- **[Project 3 Name](Link)**: Brief description of the project  
-
+- **[Palestine & Israel Conflict Data Insights](https://github.com/MuhammadSamar/PalestineIsrael-InjuriesAndDeaths)**: A data analysis project visualizing injuries and deaths during the Palestine-Israel conflict.
+- 
 ---
 
-## 📝 Blog Posts / Articles
 
-- [How to Build a Predictive Model in Python](#)  
-- [Exploring Data Visualization Techniques](#)
+## 🎯 Future Goals
 
----
-
-## 💬 Fun Fact
-
-- 🚴 I enjoy cycling and exploring new places.  
-- 🏅 Always looking for new challenges to enhance my skills!
+- 🚀 **Expand expertise** in deep learning and neural networks.  
+- 🌱 **Contribute** to real-world AI and data science projects.  
+- 📈 **Build impactful solutions** that leverage data for social good and decision-making.
 
 ---
 
