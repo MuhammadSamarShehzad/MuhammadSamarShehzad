@@ -41,12 +41,6 @@ I am focused on continuously improving my skills and leveraging data to make imp
 
 ---
 
-## 📈 GitHub Stats
-
-![Muhammad Samar Shehzad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadSamar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
 ## 🚀 Some of My Projects
 
 - **[Palestine & Israel Conflict Data Insights](https://github.com/MuhammadSamar/PalestineIsrael-InjuriesAndDeaths)**: A data analysis project visualizing injuries and deaths during the Palestine-Israel conflict.
