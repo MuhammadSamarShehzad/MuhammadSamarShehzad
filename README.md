@@ -36,7 +36,7 @@ I specialize in building **end-to-end intelligent systems** using **LangChain, G
 ### 🧩 Tech Stack
 **Languages**: Python, SQL  
 **ML/DL**: TensorFlow, Keras, Scikit-learn  
-**LLM Tools**: LangChain, LangGraph, Google ADK
+**LLM Tools**: LangChain, LangGraph, Google ADK <br>
 **Deployment**: FastAPI, Streamlit, Docker  
 **Data Viz**: Matplotlib, Seaborn, Plotly  
 
