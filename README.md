@@ -27,15 +27,15 @@ Currently building production-ready AI solutions at **InterCraft**, focusing on 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **AI/ML & LLM Tools**  
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -59,7 +59,7 @@ Currently building production-ready AI solutions at **InterCraft**, focusing on 
 
 #### 📚 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
 > Intelligent assistant for semantic search across Quran, Hadith, and Fatwa sources.  
-> **Tech**: Google ADK, LangChain, HuggingFace, FastAPI, Flask, Streamlit, Docker
+> **Tech**: Google ADK, LangChain, HuggingFace, FastAPI, Streamlit, Docker
 
 #### 🩺 [Skin Disease Classification](https://github.com/MuhammadSamarShehzad/Skin-Cancer-Classification)
 > CNN-based medical image classification achieving **99.15% accuracy** using DenseNet201.  
