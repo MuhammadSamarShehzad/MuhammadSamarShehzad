@@ -1,52 +1,98 @@
-<!-- Sleek GitHub Profile README -->
-
 <h1 align="center">Hi, I'm Muhammad Samar Shehzad 👋</h1>
 <p align="center">
-  <b>Machine Learning Engineer • LLM & Agentic AI Developer</b><br/>
-  <a href="https://muhammad-samar.vercel.app">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/muhammadsamarshehzad/">LinkedIn</a> • 
-  <a href="mailto:samarshehzad598@gmail.com">Email</a>
+  <b>AI Developer & Machine Learning Engineer</b><br/>
+  Building Production LLM Applications • Agentic AI • RAG Systems<br/><br/>
+  <a href="https://muhammad-samar.vercel.app">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/muhammadsamarshehzad/">💼 LinkedIn</a> • 
+  <a href="mailto:samarshehzad598@gmail.com">📧 Email</a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm a **Machine Learning Engineer** with expertise in **LLMs, agentic AI, NLP, and Deep Learning**.  
-I specialize in building **end-to-end intelligent systems** using **LangChain, Google ADK, TensorFlow, and FastAPI**.
 
-- 🧠 **Focus**: LLM Agents, RAG Systems, Predictive Modeling  
-- 🌱 **Exploring**: Multi-Agent Architectures & MLOps  
-- 🎓 **BSCS (CGPA 3.87)** — Arid Agriculture University
+AI Developer specializing in **LLM applications**, **Agentic AI systems**, and **RAG architectures**.  
+Currently building production-ready AI solutions at **InterCraft**, focusing on intelligent automation and real-time AI agents.
+
+- 🔥 **Currently Working On**: Agentic RAG systems, Real-time AI agents with LiveKit, Local LLM deployment
+- 🌱 **Learning**: AWS AI Services (SageMaker, Bedrock), Cloud deployment
+- 🎓 **BSCS (CGPA 3.87)** — Arid Agriculture University Rawalpindi
+- 💡 **Passionate About**: Building scalable AI systems that solve real-world problems
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**AI/ML & LLM Tools**  
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
+![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Core Skills**  
+`RAG Systems` • `Agentic AI` • `Prompt Engineering` • `NLP` • `Computer Vision` • `Real-time AI (LiveKit)` • `Local LLM Deployment`
 
 ---
 
 ### 🏆 Featured Projects
-#### **[AlimBot — AI-Powered Islamic QA System](https://github.com/MuhammadSamarShehzad/AlimBot)**
-> Intelligent assistant answering queries from Quran, Hadith, and Fatwa.  
-> **Stack**: Google ADK, LangChain, FastAPI, Streamlit, Docker.
 
-#### **[Skin Disease Classification (DenseNet201)](https://github.com/MuhammadSamarShehzad/Skin-Cancer-Classification)**
-> CNN-based model with **99.15% accuracy** for medical image classification.
+#### 🤖 [Coding Agent System](https://github.com/MuhammadSamarShehzad)
+> Autonomous coding agent automating code modifications and analysis using Google ADK and LangGraph.  
+> **Tech**: RAG-based retrieval, multi-agent orchestration, automated testing, semantic embeddings
 
-#### **[Palestine & Israel Data Insights](https://github.com/MuhammadSamar/PalestineIsrael-InjuriesAndDeaths)**
-> Data analysis and visualization of injuries and deaths during the conflict.
+#### 🎯 [AI Reception Agent](https://github.com/MuhammadSamarShehzad)
+> Vision-enabled AI agent with real-time video interactions, TTS/STT capabilities using LiveKit.  
+> **Tech**: LiveKit, Computer Vision, Conversational AI
 
----
+#### 📚 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
+> Intelligent assistant for semantic search across Quran, Hadith, and Fatwa sources.  
+> **Tech**: Google ADK, LangChain, HuggingFace, FastAPI, Flask, Streamlit, Docker
 
-### 🧩 Tech Stack
-**Languages**: Python, SQL  
-**ML/DL**: TensorFlow, Keras, Scikit-learn  
-**LLM Tools**: LangChain, LangGraph, Google ADK <br>
-**Deployment**: FastAPI, Streamlit, Docker  
-**Data Viz**: Matplotlib, Seaborn, Plotly  
+#### 🩺 [Skin Disease Classification](https://github.com/MuhammadSamarShehzad/Skin-Cancer-Classification)
+> CNN-based medical image classification achieving **99.15% accuracy** using DenseNet201.  
+> **Tech**: TensorFlow, Keras, Deep Learning, Computer Vision
 
----
-
-### 🎯 Goals
-- Build scalable **LLM-powered agents** for real-world impact.  
-- Contribute to **open-source AI projects**.  
-- Explore **advanced MLOps workflows**.
+#### 💊 [Diabetes Prediction Model](https://github.com/MuhammadSamarShehzad)
+> Predictive model with **97% accuracy** for early diabetes detection.  
+> **Tech**: Scikit-learn, Data Preprocessing, Classification Algorithms
 
 ---
 
-<p align="center">✨ “Turning data into intelligent solutions.” ✨</p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- Building **Agentic RAG architectures** for autonomous AI systems
+- Deploying **production AI solutions** on AWS (EC2, S3, Lambda, SageMaker)
+- Exploring **multi-agent collaboration** and **context engineering**
+- Contributing to **open-source AI/ML projects**
+
+---
+
+<p align="center">
+  <i>"Building intelligent systems that create measurable impact."</i>
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/MuhammadSamarShehzad">MuhammadSamarShehzad</a>
+</p>
