@@ -1,98 +1,107 @@
-<h1 align="center">Hi, I'm Muhammad Samar Shehzad 👋</h1>
+<h1 align="center">Muhammad Samar Shehzad</h1>
 <p align="center">
-  <b>AI Developer & Machine Learning Engineer</b><br/>
-  Building Production LLM Applications • Agentic AI • RAG Systems<br/><br/>
-  <a href="https://muhammad-samar.vercel.app">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/muhammadsamarshehzad/">💼 LinkedIn</a> • 
+  <b>AI Developer | LLM & Agentic AI Engineer</b><br/>
+  Building Production RAG Systems • Multi-Agent Pipelines • LLM Safety & Evaluation<br/><br/>
+  <a href="https://muhammadsamar.vercel.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muhammadsamarshehzad/">💼 LinkedIn</a> •
   <a href="mailto:samarshehzad598@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-AI Developer specializing in **LLM applications**, **Agentic AI systems**, and **RAG architectures**.  
-Currently building production-ready AI solutions at **InterCraft**, focusing on intelligent automation and real-time AI agents.
+AI Developer with hands-on experience building and shipping production AI systems. Currently working at **InterCraft** where I build agentic pipelines, RAG systems, and AI automation tools for real clients. I focus on reliability, LLM safety, and scalable deployment.
 
-- 🔥 **Currently Working On**: Agentic RAG systems, Real-time AI agents with LiveKit, Local LLM deployment
-- 🌱 **Learning**: AWS AI Services (SageMaker, Bedrock), Cloud deployment
+- 🔥 **Stack**: LangChain, LangGraph, FastAPI, Qdrant, AWS Bedrock, Docker, n8n
+- 🛡️ **LLM Safety**: Promptfoo red teaming, OWASP LLM Top 10, adversarial testing
 - 🎓 **BSCS (CGPA 3.87)** — Arid Agriculture University Rawalpindi
-- 💡 **Passionate About**: Building scalable AI systems that solve real-world problems
+
+---
+
+### 💼 Work Experience
+
+**AI Developer — InterCraft** *(Sep 2025 – Present)*
+- Built Alfaisal University Helpdesk AI System with full ticket lifecycle management using LangGraph, FastAPI and PostgreSQL with JWT auth and email AI agent
+- Developed University Policy RAG Chatbot using LangChain, Qdrant and FastAPI
+- Built AI Auto-Grading System — teachers upload criteria, AI evaluates and exports CSV reports
+- Created Lead Generation Tool using n8n, Google Places API, Apify, and Browserless Docker
+
+**Machine Learning Intern — Tensor Labs** *(Mar 2025 – Jun 2025)*
+- Improved pipeline efficiency by 30% using LangChain, HuggingFace, and Google ADK
+- Built LLM-based agents for automation, information retrieval, and code execution
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**LLM & Agentic AI**
+`LangChain` `LangGraph` `Google ADK` `LiteLLM` `Groq` `AWS Bedrock` `MCP`
 
-**AI/ML & LLM Tools**  
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
-![LangGraph](https://img.shields.io/badge/-LangGraph-121212?style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+**LLM Evaluation & Safety**
+`Promptfoo` `OWASP LLM Testing` `Adversarial Red Teaming`
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+**Voice AI**
+`LiveKit` `Deepgram (STT)` `ElevenLabs (TTS)`
 
-**Core Skills**  
-`RAG Systems` • `Agentic AI` • `Prompt Engineering` • `NLP` • `Computer Vision` • `Real-time AI (LiveKit)` • `Local LLM Deployment`
+**Databases & Vector Stores**
+`PostgreSQL` `Qdrant` `FAISS` `Milvus` `Redis`
+
+**Deployment & DevOps**
+`Docker` `FastAPI` `AWS (Bedrock, S3, Lambda, EC2)` `Render`
+
+**Workflow Automation**
+`n8n` `Apify` `Browserless`
+
+**ML & Deep Learning**
+`TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas`
 
 ---
 
 ### 🏆 Featured Projects
 
-#### 🤖 [Coding Agent System](https://github.com/MuhammadSamarShehzad)
-> Autonomous coding agent automating code modifications and analysis using Google ADK and LangGraph.  
-> **Tech**: RAG-based retrieval, multi-agent orchestration, automated testing, semantic embeddings
+#### 🕌 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
+Production Agentic RAG system for semantic search across Quran, Hadith, and Fatwa using LangGraph and Qdrant. Implemented RAG Fusion with Reciprocal Rank Fusion, Redis semantic cache, and automatic LLM fallback (AWS Bedrock → Groq). Conducted 539 adversarial red team tests achieving **89% defense rate** against jailbreaks across OWASP LLM Top 10 and EU AI Act frameworks.
 
-#### 🎯 [AI Reception Agent](https://github.com/MuhammadSamarShehzad)
-> Vision-enabled AI agent with real-time video interactions, TTS/STT capabilities using LiveKit.  
-> **Tech**: LiveKit, Computer Vision, Conversational AI
+**Tech**: LangGraph, FastAPI, Qdrant, Redis, AWS Bedrock, Promptfoo, Firebase OAuth
 
-#### 📚 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
-> Intelligent assistant for semantic search across Quran, Hadith, and Fatwa sources.  
-> **Tech**: Google ADK, LangChain, HuggingFace, FastAPI, Streamlit, Docker
+---
 
-#### 🩺 [Skin Disease Classification](https://github.com/MuhammadSamarShehzad/Skin-Cancer-Classification)
-> CNN-based medical image classification achieving **99.15% accuracy** using DenseNet201.  
-> **Tech**: TensorFlow, Keras, Deep Learning, Computer Vision
+#### 🎙️ Voice AI Agent — Portfolio Assistant
+Real-time voice AI agent deployed live on personal portfolio. Handles speech-to-text, LLM response, and text-to-speech in real time. Hosted on AWS with Docker containerization.
 
-#### 💊 [Diabetes Prediction Model](https://github.com/MuhammadSamarShehzad)
-> Predictive model with **97% accuracy** for early diabetes detection.  
-> **Tech**: Scikit-learn, Data Preprocessing, Classification Algorithms
+**Tech**: LiveKit, Deepgram, ElevenLabs, Groq, AWS EC2/Lambda/S3, Docker
+
+---
+
+#### 🤖 Coding Agent System
+Autonomous coding agent for code modification and analysis using Google ADK and LangGraph with multi-agent orchestration and semantic embeddings.
+
+**Tech**: Google ADK, LangGraph, RAG, Semantic Embeddings
+
+---
+
+#### 🩺 Skin Disease Classification
+CNN model using DenseNet201 achieving **99.15% accuracy** for skin condition classification from images.
+
+**Tech**: TensorFlow, Keras, DenseNet201, Computer Vision
+
+---
+
+#### ❤️ Heart Disease Classification
+Predictive model with **89% accuracy** for early heart disease detection using health indicators.
+
+**Tech**: Scikit-learn, Pandas, NumPy
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
-### 🎯 Current Focus
-
-- Building **Agentic RAG architectures** for autonomous AI systems
-- Deploying **production AI solutions** on AWS (EC2, S3, Lambda, SageMaker)
-- Exploring **multi-agent collaboration** and **context engineering**
-- Contributing to **open-source AI/ML projects**
-
----
-
-<p align="center">
-  <i>"Building intelligent systems that create measurable impact."</i>
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/MuhammadSamarShehzad">MuhammadSamarShehzad</a>
-</p>
+<p align="center">+92 311 6636958 • samarshehzad598@gmail.com</p>
