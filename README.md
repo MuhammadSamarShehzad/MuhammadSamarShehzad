@@ -60,7 +60,7 @@ AI Developer with hands-on experience building and shipping production AI system
 
 ### 🏆 Featured Projects
 
-#### 🕌 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
+#### 🕌 [AlimBot — Islamic AI Assistant](https://alimbot.vercel.app/)
 Production Agentic RAG system for semantic search across Quran, Hadith, and Fatwa using LangGraph and Qdrant. Implemented RAG Fusion with Reciprocal Rank Fusion, Redis semantic cache, and automatic LLM fallback (AWS Bedrock → Groq). Conducted 539 adversarial red team tests achieving **89% defense rate** against jailbreaks across OWASP LLM Top 10 and EU AI Act frameworks.
 
 **Tech**: LangGraph, FastAPI, Qdrant, Redis, AWS Bedrock, Promptfoo, Firebase OAuth
@@ -92,15 +92,6 @@ CNN model using DenseNet201 achieving **99.15% accuracy** for skin condition cla
 Predictive model with **89% accuracy** for early heart disease detection using health indicators.
 
 **Tech**: Scikit-learn, Pandas, NumPy
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" height="165">
-</p>
 
 ---
 
