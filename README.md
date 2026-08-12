@@ -1,107 +1,89 @@
-<h1 align="center">Muhammad Samar Shehzad</h1>
-<p align="center">
-  <b>AI Developer | LLM & Agentic AI Engineer</b><br/>
-  Building Production RAG Systems • Multi-Agent Pipelines • LLM Safety & Evaluation<br/><br/>
-  <a href="https://muhammadsamar.vercel.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muhammadsamarshehzad/">💼 LinkedIn</a> •
-  <a href="mailto:samarshehzad598@gmail.com">📧 Email</a>
-</p>
+<div align="center">
 
----
+# Muhammad Samar Shehzad
 
-### 👨‍💻 About Me
+### AI Engineer · LLM Systems & Agentic AI
 
-AI Developer with hands-on experience building and shipping production AI systems. Currently working at **InterCraft** where I build agentic pipelines, RAG systems, and AI automation tools for real clients. I focus on reliability, LLM safety, and scalable deployment.
+[![Portfolio](https://img.shields.io/badge/Portfolio-004A8C?style=for-the-badge&logoColor=white)](https://muhammadsamar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsamarshehzad/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarshehzad598@gmail.com)
 
-- 🔥 **Stack**: LangChain, LangGraph, FastAPI, Qdrant, AWS Bedrock, Docker, n8n
-- 🛡️ **LLM Safety**: Promptfoo red teaming, OWASP LLM Top 10, adversarial testing
-- 🎓 **BSCS (CGPA 3.87)** — Arid Agriculture University Rawalpindi
+</div>
 
----
+<br/>
 
-### 💼 Work Experience
+## About
 
-**AI Developer — InterCraft** *(Sep 2025 – Present)*
-- Built Alfaisal University Helpdesk AI System with full ticket lifecycle management using LangGraph, FastAPI and PostgreSQL with JWT auth and email AI agent
-- Developed University Policy RAG Chatbot using LangChain, Qdrant and FastAPI
-- Built AI Auto-Grading System — teachers upload criteria, AI evaluates and exports CSV reports
-- Created Lead Generation Tool using n8n, Google Places API, Apify, and Browserless Docker
+I build production LLM systems — agentic pipelines, RAG applications, and AI backend infrastructure — as an **AI Engineer at InterCraft**. My focus is reliability: full observability stacks, structured evaluation, and adversarial red-teaming (OWASP LLM Top 10, EU AI Act) before anything ships.
 
-**Machine Learning Intern — Tensor Labs** *(Mar 2025 – Jun 2025)*
-- Improved pipeline efficiency by 30% using LangChain, HuggingFace, and Google ADK
-- Built LLM-based agents for automation, information retrieval, and code execution
+- 🧠 Currently building agentic systems on **LangGraph + FastAPI**, instrumented end-to-end with **OpenTelemetry & Grafana**
+- 🛡️ Red-teamed **700+ adversarial prompts** across two production LLM systems
+- 🎓 BSCS, CGPA 3.87 — Arid Agriculture University, Rawalpindi
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## Experience
+
+**AI Engineer** — InterCraft &nbsp;·&nbsp; *Sep 2025 – Present*
+- Architected the Alfaisal University Helpdesk AI System — full email-to-ticket lifecycle on LangGraph, FastAPI, and Celery/Redis, integrated with a Laravel backend via Microsoft Graph webhooks
+- Led a red-team security assessment (OWASP LLM Top 10, EU AI Act, ISO/IEC 42001) — 207 adversarial tests, 6 vulnerabilities identified
+- Instrumented the stack with OpenTelemetry and built Grafana dashboards (Loki, Tempo, Prometheus) for production observability
+- Shipped a University Policy RAG Chatbot (LangChain, Qdrant) and an AI auto-grading pipeline with structured CSV export
+
+**Machine Learning Intern** — Tensor Labs &nbsp;·&nbsp; *Mar 2025 – Jun 2025*
+- Optimized production AI pipelines (LangChain, HuggingFace, Google ADK), improving efficiency by 30%
+- Built LLM-based agents for task automation, retrieval, and code execution
+
+<br/>
+
+## Tech Stack
 
 **LLM & Agentic AI**
-`LangChain` `LangGraph` `Google ADK` `LiteLLM` `Groq` `AWS Bedrock` `MCP`
+![LangChain](https://img.shields.io/badge/LangChain-0F766E?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square) ![Google ADK](https://img.shields.io/badge/Google_ADK-0F766E?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-0F766E?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-0F766E?style=flat-square) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0F766E?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0F766E?style=flat-square)
 
-**LLM Evaluation & Safety**
-`Promptfoo` `OWASP LLM Testing` `Adversarial Red Teaming`
+**Evaluation, Safety & Observability**
+![Promptfoo](https://img.shields.io/badge/Promptfoo-7C3AED?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-7C3AED?style=flat-square) ![LangFuse](https://img.shields.io/badge/LangFuse-7C3AED?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7C3AED?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-7C3AED?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-7C3AED?style=flat-square)
 
-**Voice AI**
-`LiveKit` `Deepgram (STT)` `ElevenLabs (TTS)`
+**Data, Backend & Deployment**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1D4ED8?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-1D4ED8?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-1D4ED8?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-1D4ED8?style=flat-square)
 
-**Databases & Vector Stores**
-`PostgreSQL` `Qdrant` `FAISS` `Milvus` `Redis`
+**ML & Voice AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-B91C1C?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-B91C1C?style=flat-square) ![LiveKit](https://img.shields.io/badge/LiveKit-B91C1C?style=flat-square) ![Deepgram](https://img.shields.io/badge/Deepgram-B91C1C?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-B91C1C?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-B91C1C?style=flat-square)
 
-**Deployment & DevOps**
-`Docker` `FastAPI` `AWS (Bedrock, S3, Lambda, EC2)` `Render`
+<br/>
 
-**Workflow Automation**
-`n8n` `Apify` `Browserless`
+## Featured Projects
 
-**ML & Deep Learning**
-`TensorFlow` `Keras` `Scikit-learn` `NumPy` `Pandas`
+### 🕌 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
+Production agentic RAG system for semantic search across Quran, Hadith, and Fatwa corpora. RAG Fusion with Reciprocal Rank Fusion, Redis semantic cache, Firebase OAuth, and automatic LLM fallback (AWS Bedrock Mistral → Groq LLaMA 3.3). Red-teamed with Promptfoo — **539 adversarial tests, 89% defense rate** against jailbreaks.
+`LangGraph` `FastAPI` `Qdrant` `Redis` `AWS Bedrock` `Promptfoo`
 
----
+### 🎙️ Voice AI Agent — Portfolio Assistant
+Real-time voice agent handling STT → LLM → TTS end-to-end, containerized and deployed live on my portfolio.
+`LiveKit` `Deepgram` `ElevenLabs` `Groq` `AWS` `Docker`
 
-### 🏆 Featured Projects
+**Also built:** an autonomous coding agent with multi-agent orchestration (Google ADK + LangGraph), a DenseNet201 skin-disease classifier (**99.15% accuracy**), and a heart-disease risk model (**89% accuracy**).
 
-#### 🕌 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
-Production Agentic RAG system for semantic search across Quran, Hadith, and Fatwa using LangGraph and Qdrant. Implemented RAG Fusion with Reciprocal Rank Fusion, Redis semantic cache, and automatic LLM fallback (AWS Bedrock → Groq). Conducted 539 adversarial red team tests achieving **89% defense rate** against jailbreaks across OWASP LLM Top 10 and EU AI Act frameworks.
+<br/>
 
-**Tech**: LangGraph, FastAPI, Qdrant, Redis, AWS Bedrock, Promptfoo, Firebase OAuth
+## Certifications
 
----
+- LangChain Essentials — LangChain Academy
+- Supervised ML: Regression & Classification — DeepLearning.AI / Stanford
+- AWS AI Practitioner — LearnKartS (Coursera)
+- Responsible AI with AWS Security & Governance — LearnKartS
 
-#### 🎙️ Voice AI Agent — Portfolio Assistant
-Real-time voice AI agent deployed live on personal portfolio. Handles speech-to-text, LLM response, and text-to-speech in real time. Hosted on AWS with Docker containerization.
+<br/>
 
-**Tech**: LiveKit, Deepgram, ElevenLabs, Groq, AWS EC2/Lambda/S3, Docker
+## GitHub Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" height="165"/>
+</div>
 
-#### 🤖 Coding Agent System
-Autonomous coding agent for code modification and analysis using Google ADK and LangGraph with multi-agent orchestration and semantic embeddings.
+<br/>
 
-**Tech**: Google ADK, LangGraph, RAG, Semantic Embeddings
-
----
-
-#### 🩺 Skin Disease Classification
-CNN model using DenseNet201 achieving **99.15% accuracy** for skin condition classification from images.
-
-**Tech**: TensorFlow, Keras, DenseNet201, Computer Vision
-
----
-
-#### ❤️ Heart Disease Classification
-Predictive model with **89% accuracy** for early heart disease detection using health indicators.
-
-**Tech**: Scikit-learn, Pandas, NumPy
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" height="165">
-</p>
-
----
-
-<p align="center">+92 311 6636958 • samarshehzad598@gmail.com</p>
+<div align="center">
++92 311 6636958 &nbsp;·&nbsp; samarshehzad598@gmail.com
+</div>
