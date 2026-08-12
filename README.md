@@ -75,15 +75,6 @@ Real-time voice agent handling STT → LLM → TTS end-to-end, containerized and
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadSamarShehzad&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSamarShehzad&layout=compact&theme=radical" height="165"/>
-</div>
-
-<br/>
-
 <div align="center">
 +92 311 6636958 &nbsp;·&nbsp; samarshehzad598@gmail.com
 </div>
