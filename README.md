@@ -1,80 +1,49 @@
-<div align="center">
+<a href="https://muhammadsamar.vercel.app">
+  <img src="assets/banner.png" alt="Muhammad Samar Shehzad · I build LLM systems that don't break" width="100%">
+</a>
 
-# Muhammad Samar Shehzad
+<p align="center">
+  <a href="https://muhammadsamar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-talk_to_my_AI_clone-C8441A?style=flat-square" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/muhammadsamarshehzad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://muhammadsamarshehzad.medium.com"><img src="https://img.shields.io/badge/Medium-17150F?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:samarshehzad598@gmail.com"><img src="https://img.shields.io/badge/Email-samarshehzad598@gmail.com-17150F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### AI Engineer · LLM Systems & Agentic AI
+## Hi, I'm Samar 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-004A8C?style=for-the-badge&logoColor=white)](https://muhammadsamar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsamarshehzad/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarshehzad598@gmail.com)
+I'm an **AI Engineer** who builds production LLM systems: **AI agents**, **advanced RAG**, and the **Python backends** that run them. Then I attack them myself, so real users don't find the holes first.
 
-</div>
+- 🔭 **Now:** AI Engineer at InterCraft, building agentic workflows on LangGraph + FastAPI
+- 🗺️ **Built:** the backend of a geospatial lead platform with a **2.9M+ business** data bank, where repeat searches cost **$0** in paid API calls
+- 🛡️ **Broke:** **740+ adversarial tests** against production AI (OWASP LLM Top 10, EU AI Act)
+- 🎙️ **Try:** an AI clone of me you can chat with or video-call at [muhammadsamar.vercel.app](https://muhammadsamar.vercel.app)
 
-<br/>
+## Featured work
 
-## About
+| Project | What it is | Built with |
+|---|---|---|
+| 🕌 **[AlimBot](https://github.com/MuhammadSamarShehzad/AlimBot)** · [live](https://alimbot.vercel.app) | Production agentic RAG over Quran, Hadith and fatwas. Relevance gate, semantic cache, automatic LLM failover. **539 red-team tests, 89% defended.** | LangGraph · FastAPI · Qdrant · Redis · AWS Bedrock · Promptfoo |
+| 🎙️ **AI Clone** · [live](https://muhammadsamar.vercel.app) | Real-time voice & video agent of me, with a lip-synced avatar and per-visitor rooms. | LiveKit · Deepgram · Claude · Fish Audio · Anam |
+| 🗺️ **Geospatial lead platform** | Finds every business in any area. 4-tier entity resolution, H3 coverage tracking, embedding-based keyword matching. | FastAPI · PostgreSQL/PostGIS · Redis · OpenAI |
+| 🤖 **Multi-agent coding assistant** | Planner, coder, test-writer and executor agents turn a prompt and a repo into a tested feature on its own branch. | OpenAI · Anthropic · Gemini · Google ADK |
 
-I build production LLM systems — agentic pipelines, RAG applications, and AI backend infrastructure — as an **AI Engineer at InterCraft**. My focus is reliability: full observability stacks, structured evaluation, and adversarial red-teaming (OWASP LLM Top 10, EU AI Act) before anything ships.
+## Toolbox
 
-- 🧠 Currently building agentic systems on **LangGraph + FastAPI**, instrumented end-to-end with **OpenTelemetry & Grafana**
-- 🛡️ Red-teamed **700+ adversarial prompts** across two production LLM systems
-- 🎓 BSCS, CGPA 3.87 — Arid Agriculture University, Rawalpindi
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,aws,tensorflow,sklearn,git,vercel" alt="Python, FastAPI, PostgreSQL, Redis, Docker, AWS, TensorFlow, scikit-learn, Git, Vercel">
+</p>
 
-<br/>
+**AI & agents:** LangGraph · LangChain · Google ADK · MCP · OpenAI · Claude · Gemini · AWS Bedrock · Groq · Ollama  
+**RAG & data:** Qdrant · Pinecone · FAISS · PostGIS · DuckDB · reranking · RAG Fusion  
+**Evals & observability:** Promptfoo · LangSmith · Langfuse · OpenTelemetry · Grafana · Prometheus  
+**Voice:** LiveKit · Deepgram · ElevenLabs · Fish Audio
 
-## Experience
+## Writing
 
-**AI Engineer** — InterCraft &nbsp;·&nbsp; *Sep 2025 – Present*
-- Architected the Alfaisal University Helpdesk AI System — full email-to-ticket lifecycle on LangGraph, FastAPI, and Celery/Redis, integrated with a Laravel backend via Microsoft Graph webhooks
-- Led a red-team security assessment (OWASP LLM Top 10, EU AI Act, ISO/IEC 42001) — 207 adversarial tests, 6 vulnerabilities identified
-- Instrumented the stack with OpenTelemetry and built Grafana dashboards (Loki, Tempo, Prometheus) for production observability
-- Shipped a University Policy RAG Chatbot (LangChain, Qdrant) and an AI auto-grading pipeline with structured CSV export
+📝 [Your AI App Has 8 Unlocked Doors](https://muhammadsamarshehzad.medium.com): the attacks every LLM app must survive, and how to lock each one.
 
-**Machine Learning Intern** — Tensor Labs &nbsp;·&nbsp; *Mar 2025 – Jun 2025*
-- Optimized production AI pipelines (LangChain, HuggingFace, Google ADK), improving efficiency by 30%
-- Built LLM-based agents for task automation, retrieval, and code execution
+---
 
-<br/>
-
-## Tech Stack
-
-**LLM & Agentic AI**
-![LangChain](https://img.shields.io/badge/LangChain-0F766E?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square) ![Google ADK](https://img.shields.io/badge/Google_ADK-0F766E?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-0F766E?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-0F766E?style=flat-square) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-0F766E?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0F766E?style=flat-square)
-
-**Evaluation, Safety & Observability**
-![Promptfoo](https://img.shields.io/badge/Promptfoo-7C3AED?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-7C3AED?style=flat-square) ![LangFuse](https://img.shields.io/badge/LangFuse-7C3AED?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7C3AED?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-7C3AED?style=flat-square) ![Prometheus](https://img.shields.io/badge/Prometheus-7C3AED?style=flat-square)
-
-**Data, Backend & Deployment**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-1D4ED8?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-1D4ED8?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-1D4ED8?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-1D4ED8?style=flat-square)
-
-**ML & Voice AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-B91C1C?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-B91C1C?style=flat-square) ![LiveKit](https://img.shields.io/badge/LiveKit-B91C1C?style=flat-square) ![Deepgram](https://img.shields.io/badge/Deepgram-B91C1C?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-B91C1C?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-B91C1C?style=flat-square)
-
-<br/>
-
-## Featured Projects
-
-### 🕌 [AlimBot — Islamic AI Assistant](https://github.com/MuhammadSamarShehzad/AlimBot)
-Production agentic RAG system for semantic search across Quran, Hadith, and Fatwa corpora. RAG Fusion with Reciprocal Rank Fusion, Redis semantic cache, Firebase OAuth, and automatic LLM fallback (AWS Bedrock Mistral → Groq LLaMA 3.3). Red-teamed with Promptfoo — **539 adversarial tests, 89% defense rate** against jailbreaks.
-`LangGraph` `FastAPI` `Qdrant` `Redis` `AWS Bedrock` `Promptfoo`
-
-### 🎙️ Voice AI Agent — Portfolio Assistant
-Real-time voice agent handling STT → LLM → TTS end-to-end, containerized and deployed live on my portfolio.
-`LiveKit` `Deepgram` `ElevenLabs` `Groq` `AWS` `Docker`
-
-**Also built:** an autonomous coding agent with multi-agent orchestration (Google ADK + LangGraph), a DenseNet201 skin-disease classifier (**99.15% accuracy**), and a heart-disease risk model (**89% accuracy**).
-
-<br/>
-
-## Certifications
-
-- LangChain Essentials — LangChain Academy
-- Supervised ML: Regression & Classification — DeepLearning.AI / Stanford
-- AWS AI Practitioner — LearnKartS (Coursera)
-- Responsible AI with AWS Security & Governance — LearnKartS
-
-<br/>
-
-<div align="center">
-+92 311 6636958 &nbsp;·&nbsp; samarshehzad598@gmail.com
-</div>
+<p align="center">
+  <sub>BS Computer Science · CGPA 3.87 · Rawalpindi, Pakistan · Open to AI engineering roles</sub>
+</p>
